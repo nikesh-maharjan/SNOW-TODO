@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (TODO)">48a85e7c2f1bf51061e12aa62799b6eb</button>
+        <item_parameter display_value="TODO name">c4a85e7c2f1bf51061e12aa62799b6ea</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>nmaharjan</sys_created_by>
+        <sys_created_on>2023-12-21 16:42:51</sys_created_on>
+        <sys_id>04a85e7c2f1bf51061e12aa62799b6ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c4a85e7c2f1bf51061e12aa62799b6ea</sys_name>
+        <sys_package display_value="TODO" source="x_308504_todo">9577923c2f1bf51061e12aa62799b600</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TODO">9577923c2f1bf51061e12aa62799b600</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_04a85e7c2f1bf51061e12aa62799b6ee</sys_update_name>
+        <sys_updated_by>nmaharjan</sys_updated_by>
+        <sys_updated_on>2023-12-21 16:42:51</sys_updated_on>
+        <ui_parameter display_value="Name">c0a85e7c2f1bf51061e12aa62799b6ed</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

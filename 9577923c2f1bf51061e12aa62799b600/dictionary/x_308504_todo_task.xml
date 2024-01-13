@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1631ae342f5bf51061e12aa62799b671" extends="task" label="TODO Task" max_length="40" name="x_308504_todo_task" type="collection">
+        <element label="TODO" max_length="32" name="todo" reference="x_308504_todo_todo" type="reference"/>
+    </element>
+</database>

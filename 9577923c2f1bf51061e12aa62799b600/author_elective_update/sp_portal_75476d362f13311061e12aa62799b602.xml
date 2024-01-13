@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <default>false</default>
+        <enable_ais>true</enable_ais>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="index">46cc384147532100ba13a5554ee49009</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="kb_view2">26c2e030d7201200a9addd173e24d437</kb_knowledge_page>
+        <login_page display_value="landing">36c61807cb31120000f8d856634c9ca9</login_page>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application display_value="Service Portal Default Search Application">00731b9d5b231010d9a5ce1a8581c7dd</search_application>
+        <search_results_configuration display_value="Service Portal Search">80eb579d53671010968addeeff7b1215</search_results_configuration>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>nmaharjan</sys_created_by>
+        <sys_created_on>2023-12-27 18:21:13</sys_created_on>
+        <sys_id>75476d362f13311061e12aa62799b602</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>DMV</sys_name>
+        <sys_package display_value="TODO" source="x_308504_todo">9577923c2f1bf51061e12aa62799b600</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TODO">9577923c2f1bf51061e12aa62799b600</sys_scope>
+        <sys_update_name>sp_portal_75476d362f13311061e12aa62799b602</sys_update_name>
+        <sys_updated_by>nmaharjan</sys_updated_by>
+        <sys_updated_on>2023-12-27 18:29:08</sys_updated_on>
+        <theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme>
+        <title>DMV</title>
+        <ts_index_group/>
+        <url_suffix>dmv</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=75476d362f13311061e12aa62799b602"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TODO">9577923c2f1bf51061e12aa62799b600</application>
+        <file_path/>
+        <instance_id>1db582b8db7e80182f68c59705961921</instance_id>
+        <instance_name>dev99158</instance_name>
+        <name>sp_portal_75476d362f13311061e12aa62799b602</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><default>false</default><enable_ais>true</enable_ais><enable_favorites>false</enable_favorites><hide_portal_name>false</hide_portal_name><homepage display_value="index">46cc384147532100ba13a5554ee49009</homepage><icon/><kb_knowledge_base/><kb_knowledge_page display_value="kb_view2">26c2e030d7201200a9addd173e24d437</kb_knowledge_page><login_page display_value="landing">36c61807cb31120000f8d856634c9ca9</login_page><logo/><notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page><quick_start_config/><sc_catalog/><sc_catalog_page/><sc_category_page/><search_application display_value="Service Portal Default Search Application">00731b9d5b231010d9a5ce1a8581c7dd</search_application><search_results_configuration display_value="Service Portal Search">80eb579d53671010968addeeff7b1215</search_results_configuration><sp_chat_queue/><sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu><sys_class_name>sp_portal</sys_class_name><sys_created_by>nmaharjan</sys_created_by><sys_created_on>2023-12-27 18:21:13</sys_created_on><sys_id>75476d362f13311061e12aa62799b602</sys_id><sys_mod_count>3</sys_mod_count><sys_name>DMV</sys_name><sys_package display_value="TODO" source="x_308504_todo">9577923c2f1bf51061e12aa62799b600</sys_package><sys_policy/><sys_scope display_value="TODO">9577923c2f1bf51061e12aa62799b600</sys_scope><sys_update_name>sp_portal_75476d362f13311061e12aa62799b602</sys_update_name><sys_updated_by>nmaharjan</sys_updated_by><sys_updated_on>2023-12-27 18:29:08</sys_updated_on><theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme><title>DMV</title><ts_index_group/><url_suffix>dmv</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=75476d362f13311061e12aa62799b602"/></record_update>]]></payload>
+        <payload_hash>-869417838</payload_hash>
+        <record_name>DMV</record_name>
+        <reverted_from/>
+        <source>1977923c2f1bf51061e12aa62799b602</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nmaharjan</sys_created_by>
+        <sys_created_on>2023-12-27 18:29:08</sys_created_on>
+        <sys_id>d77a6df62f13311061e12aa62799b677</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cac899cf40000001</sys_recorded_at>
+        <sys_updated_by>nmaharjan</sys_updated_by>
+        <sys_updated_on>2023-12-27 18:29:08</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>9f7a6df665133110351146fe8f5b5d76</update_guid>
+        <update_guid_history>9f7a6df665133110351146fe8f5b5d76:-869417838,55d961f67e1331109d3f23910392686d:-238587592,0b19a9b6ee133110709cfb475541c60f:-362517614,27a8a1b6c4133110745985f0ab0d53b4:1447240595</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="DMV">8f5bed3a2f13311061e12aa62799b636</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nmaharjan</sys_created_by>
+        <sys_created_on>2023-12-27 18:32:56</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>1a195847c96a4dcab46f59c72b7248d9</sys_id>
+        <sys_metadata>75476d362f13311061e12aa62799b602</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DMV</sys_name>
+        <sys_package display_value="TODO" source="x_308504_todo">9577923c2f1bf51061e12aa62799b600</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TODO">9577923c2f1bf51061e12aa62799b600</sys_scope>
+        <sys_scope_delete display_value="">21e62625305f49d88597637fef1d5290</sys_scope_delete>
+        <sys_update_name>sp_portal_75476d362f13311061e12aa62799b602</sys_update_name>
+        <sys_update_version display_value="sp_portal_75476d362f13311061e12aa62799b602">d77a6df62f13311061e12aa62799b677</sys_update_version>
+        <sys_updated_by>nmaharjan</sys_updated_by>
+        <sys_updated_on>2023-12-27 18:32:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
